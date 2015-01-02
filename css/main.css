@@ -556,7 +556,8 @@ body {
   body .product-overview-wrapper ul {
     margin: 0 auto 80px auto;
     padding: 0;
-    list-style-position: inside; }
+    list-style-position: inside;
+    background: red; }
     body .product-overview-wrapper ul li {
       font-family: 'Bitter', serif;
       font-weight: 700;
@@ -565,8 +566,6 @@ body {
       line-height: 36px;
       margin-bottom: 10px;
       padding: 0; }
-    body .product-overview-wrapper ul.facts {
-      width: 75%; }
   body .case-study {
     border-bottom: 15px solid #ffffff;
     position: relative; }

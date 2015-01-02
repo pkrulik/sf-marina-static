@@ -31,6 +31,7 @@
                         <div class = "fifty-percent">
                             <span class="custom-dropdown">
                                 <select>
+                                    <option value="" disabled selected>Select a Product</option>
                                     <option value = "Marina Systems">Marina Systems</option>
                                     <option value = "Industrial Docking Systems">Industrial Docking Systems</option>  
                                     <option value = "Floating Breakwaters">Floating Breakwaters</option>

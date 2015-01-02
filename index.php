@@ -49,4 +49,4 @@
             </section>
         
         
-    <?php include('incl/footer.php') ?>
+    <?php include('incl/footer-new.php') ?>

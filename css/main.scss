@@ -330,9 +330,8 @@ body {background:$blue-dark; color:$white;
         h2 {font-size:39px; line-height:70px; @include bitterBold(); margin:0 0 40px 0;}
         h3 {@include bitterBold(); font-size:35px; line-height:70px; margin-top:80px; margin-bottom:10px;}
         p {@include bitterBold(); font-size:20px; line-height:40px; margin-bottom:20px;}
-        ul {margin:0 auto 80px auto; padding:0; list-style-position: inside;
+        ul {margin:0 auto 80px auto; padding:0; list-style-position: inside; background:red;
             li {@include bitterBold(); font-size:18px; line-height:36px; margin-bottom:10px; padding:0;}
-            &.facts {width:75%;}
         }
     }
     
